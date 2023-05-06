@@ -43,3 +43,16 @@ int main()
     return 0;
 }
 
+/*
+Output:
+
+Enter the length of array :
+3
+Enter the arr[0] = 1
+Enter the arr[1] = 2
+Enter the arr[2] = 3
+1 2 3
+Reversed array is :3 2 1
+*/
+
+
