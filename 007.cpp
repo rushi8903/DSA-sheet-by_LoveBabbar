@@ -26,6 +26,7 @@ int main()
     //returns the sum of maximum and minimum number of array
     int sum = sumMaxMin(arr, len);
     cout<<"The sum of maximum and minimum number of array : "<<sum<<endl;
+    return 0;
 }
 
 /*
